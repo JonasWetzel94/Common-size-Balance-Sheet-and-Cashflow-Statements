@@ -13,10 +13,12 @@ Omega Industries Ltd. (manufacturing) — build a recruiter-readable financial r
 <img width="496" height="468" alt="image" src="https://github.com/user-attachments/assets/3b2f15c3-49af-41a2-a163-60e68822250a" />
 
 
+
+
 - Compute **FCFF** and **FCFE** and explain the drivers.
 <img width="515" height="768" alt="image" src="https://github.com/user-attachments/assets/041961f1-7f89-4610-ae50-e6197188c77d" />
 
-Assumed tax rate in the model: **20%**.
+
 
 ---
 
