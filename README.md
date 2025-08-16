@@ -2,12 +2,9 @@
 
 ## Visual Overview
 
-- ![Common-size Balance Sheet](<img width="390" height="744" alt="image" src="https://github.com/user-attachments/assets/cb56c3b3-05e1-40c0-bfd3-ef69e5c931aa" />
-omega-balance-sheet.png)
-- ![Workings — PP&E and Retained Earnings roll-forward](<img width="496" height="468" alt="image" src="https://github.com/user-attachments/assets/3b2f15c3-49af-41a2-a163-60e68822250a" />
-)
-- ![Cash Flow (Indirect) + FCFF/FCFE summary](<img width="515" height="768" alt="image" src="https://github.com/user-attachments/assets/041961f1-7f89-4610-ae50-e6197188c77d" />
-)
+<img width="390" height="744" alt="image" src="https://github.com/user-attachments/assets/cb56c3b3-05e1-40c0-bfd3-ef69e5c931aa" />
+<img width="496" height="468" alt="image" src="https://github.com/user-attachments/assets/3b2f15c3-49af-41a2-a163-60e68822250a" />
+<img width="515" height="768" alt="image" src="https://github.com/user-attachments/assets/041961f1-7f89-4610-ae50-e6197188c77d" />
 
 ---
 
