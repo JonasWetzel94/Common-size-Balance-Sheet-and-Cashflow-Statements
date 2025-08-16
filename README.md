@@ -8,7 +8,7 @@ Omega Industries Ltd. (manufacturing) — build a recruiter-readable financial r
 <img width="390" height="744" alt="image" src="https://github.com/user-attachments/assets/cb56c3b3-05e1-40c0-bfd3-ef69e5c931aa" />
 
 
-- Prepare an **Indirect Cash Flow Statement** and reconcile cash.
+
 - Roll forward **PP&E** and **Retained Earnings** from notes/workings.
 <img width="496" height="468" alt="image" src="https://github.com/user-attachments/assets/3b2f15c3-49af-41a2-a163-60e68822250a" />
 
