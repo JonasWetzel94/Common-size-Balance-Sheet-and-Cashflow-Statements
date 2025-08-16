@@ -7,13 +7,13 @@ Omega Industries Ltd. (manufacturing) — build a recruiter-readable financial r
 - Create a **common-size balance sheet** for the current year.
 <img width="390" height="744" alt="image" src="https://github.com/user-attachments/assets/cb56c3b3-05e1-40c0-bfd3-ef69e5c931aa" />
 
-
+---
 
 - Roll forward **PP&E** and **Retained Earnings** from notes/workings.
 <img width="496" height="468" alt="image" src="https://github.com/user-attachments/assets/3b2f15c3-49af-41a2-a163-60e68822250a" />
 
 
-
+---
 
 - Compute **FCFF** and **FCFE** and explain the drivers.
 <img width="515" height="768" alt="image" src="https://github.com/user-attachments/assets/041961f1-7f89-4610-ae50-e6197188c77d" />
